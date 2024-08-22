@@ -1,16 +1,16 @@
-# cryptomixer
-криптомиксер
-Защитите свою конфиденциальность с Kazna.io.
- 
-Наш криптомиксер предоставляет высокий уровень анонимности для ваших Bitcoin транзакций, обеспечивая безопасность и приватность.
- 
-AML 0-10%
 
-Время 1-6 часов
+```markdown
+# CryptoMixer - Kazna.io
 
-Сумма 0.003-50BTC за транзакцию
+**Protect Your Privacy with Kazna.io**
 
-Комиссия динамическая от 1,5% до 4%+0.0007BTC (в зависимости от суммы)
- 
-CLEAR URL: https://kazna.io
-Telegram: @kaznaio
+Kazna.io offers a robust Bitcoin mixing service designed to enhance your transaction anonymity, ensuring both security and privacy for your digital assets.
+
+**Features:**
+- **AML Compliance:** 0-10%
+- **Processing Time:** 1-6 hours
+- **Transaction Amount:** 0.003-50 BTC per transaction
+- **Fees:** Dynamic, ranging from 1.5%  + 0.0007 BTC (depending on the transaction amount)
+
+For more information, visit our [website](https://kazna.io) or contact us on Telegram: [@kaznaio](https://t.me/kaznaio)
+```
